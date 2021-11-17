@@ -1,5 +1,5 @@
 # lmaewapm
-Learn micro-controller and electronics with Arduino platform Malaysia
+Learn micro-controller and electronics with Arduino platform Malaysia https://www.facebook.com/groups/428082702057224
 
 Initially the plan was to teach micro-controller and electronics using the "Arduino" platform for FREE in schools ( in Malaysia ). Initially the plan was to teach micro-controller and electronics using the "Arduino" platform for FREE in schools ( in Malaysia ).
 
