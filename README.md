@@ -1,5 +1,7 @@
 # lmaewapm
---- PLEASE SHARE ---
+--- PLEASE HELP SHARE THIS GROUP ---
+
+Postings will be updated from time to time, please browse the old postings for updates
 
 Facebook Discussion Group = https://www.facebook.com/groups/428082702057224
 
